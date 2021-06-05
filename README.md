@@ -9,4 +9,4 @@ You can upload the data to a text file by clicking the orange button.
 
 At the very bottom, you can see: the application running time (in milliseconds), the number of scanned ports, and the scan date.
 
-Comments and data on the Windows form are written in Russian. The data on the right can be changed.
+Comments and data on the Windows form are written in Russian.
